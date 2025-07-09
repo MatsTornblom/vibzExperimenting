@@ -22,8 +22,8 @@ export default function BuyPage() {
           <TextContainer>
             <h3>Buy</h3>
             <p>
-              We are in the process of setting up our MiCA/pre-sale of the $VIBZ
-              token. While waiting, to follow the pre-sale preparations, please
+              We are in the process of setting up our MiCA registration. After that a pre-sale of the $VIBZ
+              token will follow. While waiting, to follow the pre-sale preparations, please
               join our community.
             </p>
           </TextContainer>
